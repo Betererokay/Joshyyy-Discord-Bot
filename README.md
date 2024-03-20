@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://i.imgur.com/Q9kQiXf.png" alt="Joshyyy's banner image."><br>
-<h1 align="center">🤖 Joshyy Discord Bot</h1>
+<h1 align="center">🤖 Joshyyy Discord Bot</h1>
 
 <h4 align="center">Powered by discord.js and Lavalink 4.0</h4>
 
