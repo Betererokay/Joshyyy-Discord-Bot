@@ -9,7 +9,7 @@ Joshyyy plays both music and playlists from Spotify, Soundcloud and more!
 
 * Click **[here](https://discord.com/oauth2/authorize?client_id=1170079241535246336&permissions=3229696&scope=bot)** to invite Joshyyy to your server.
 * Click **[here](https://discord.gg/yZzPG7ZW7R)** to join our Discord server.
-* Click **[here]([https://](https://stats.uptimerobot.com/9ZGAxTRyp9))** to view Joshyyys uptime.
+* Click **[here]([https://](https://stats.uptimerobot.com/9ZGAxTRyp9)** to view Joshyyys uptime.
 
 * ## 📢 **Thinking of contributing?**
 
